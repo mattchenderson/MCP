@@ -83,7 +83,7 @@
       "authorizationUrl": "https://login.microsoftonline.com",
       "tokenUrl": "https://login.microsoftonline.com",
       "refreshUrl": "https://login.microsoftonline.com",
-      "scopes": ["ea9ffc3e-8a23-4a7d-836d-234d7c7565c1/McpServers.OneDrive.All"]
+      "scopes": ["b0b2a2bb-6361-4549-a00c-a018417eb8e2/Tools.ListInvoke.All"]
     }
   },
   "authSchemas":["OAuth2"],
