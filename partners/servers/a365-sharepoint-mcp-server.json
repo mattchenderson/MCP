@@ -151,7 +151,7 @@
       "authorizationUrl": "https://login.microsoftonline.com",
       "tokenUrl": "https://login.microsoftonline.com",
       "refreshUrl": "https://login.microsoftonline.com",
-      "scopes": ["ea9ffc3e-8a23-4a7d-836d-234d7c7565c1/McpServers.SharePoint.All"]
+      "scopes": ["292cff14-c0e8-4116-9e3b-99934ae05766/Tools.ListInvoke.All"]
     }
   },
   "authSchemas":["OAuth2"],

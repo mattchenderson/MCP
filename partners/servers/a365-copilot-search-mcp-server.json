@@ -55,7 +55,7 @@
       "authorizationUrl": "https://login.microsoftonline.com",
       "tokenUrl": "https://login.microsoftonline.com",
       "refreshUrl": "https://login.microsoftonline.com",
-      "scopes": ["ea9ffc3e-8a23-4a7d-836d-234d7c7565c1/McpServers.CopilotMCP.All"]
+      "scopes": ["ab7c82de-7946-4454-ac28-70249d17c95e/Tools.ListInvoke.All"]
     }
   },
   "authSchemas":["OAuth2"],
